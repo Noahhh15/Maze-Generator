@@ -1,0 +1,3 @@
+## Converting from a text file into a `PDF`
+
+If you want to visualize a maze, you can convert the raw text file into a PDF.  This will be useful to visualize what your program is doing.  The script `draw-grid.py` can do this conversion for you.  In the example below, the script will automatically convert `test.txt` into `test.txt.pdf`.  You can specify any file name and the extension `.pdf` will be automatically added to the output file.
